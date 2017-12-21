@@ -1,0 +1,57 @@
+body{
+background-color:violet;
+color: white;
+}
+#padd {
+font-size:25px;
+padding:30px;
+background-color:dodgerblue;
+}
+.kls1{
+border: 5px solid white;
+font-size:25px;
+}
+.kls2{
+    border:5px dashed dodgerblue;
+    font-size:30px;
+}
+.kls3{
+    border:3px dotted tomato;
+    font-size:20px;
+    border-radius:5px;
+}
+.kls4{
+border:20px groove yellow;
+font-size:20px;
+border-radius:15px;
+}
+.kls5{
+border:10px double green;
+font-size:20px;
+}
+.kls6{
+border:10px white;
+border-style: none dashed double dotted;
+font-size:25px;
+}
+.kls7{
+border:10px yellow;
+border-top-style:none;
+border-right-style:solid;
+border-bottom-style:double;
+border-left-style:dotted;
+font-size:20px;
+}
+.kls8{
+border:#000080;
+border-style:solid;
+border-width:0 0 0 15px;
+font-size:25px;
+background-color:#8080ff;
+padding: 20px;
+}
+.kls9{
+border:5px solid white;
+outline: 10px solid blue;
+font-size:20px;
+}
